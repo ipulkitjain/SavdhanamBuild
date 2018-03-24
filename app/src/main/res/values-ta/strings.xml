@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="username">யூஸர் நேம்</string>
+    <string name="password">பாஸ்‌வர்ட்</string>
+    <string name="name"></string>
+    <string name="contact">ஃபோந் நஂபர்</string>
+    <string name="email">பதிவு</string>
+    <string name="Register">பதிவு</string>
+    <string name="Login">லாக் இன்</string>
+    <string name="Logout">லாக் ஔட்</string>
+</resources>

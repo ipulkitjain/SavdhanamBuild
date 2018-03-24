@@ -26,8 +26,18 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/LoginSuccess"
         android:layout_centerHorizontal="true"
-        android:text="Logout"
+        android:text="@string/Logout"
         android:layout_marginTop="15sp"
         android:id="@+id/btnLogout"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/btnLogout"
+        android:layout_centerHorizontal="true"
+        android:text="@string/help"
+        android:layout_marginTop="15sp"
+        android:id="@+id/btnHelp"
+        />
 
 </RelativeLayout>

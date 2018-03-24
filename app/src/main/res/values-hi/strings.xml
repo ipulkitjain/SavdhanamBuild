@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="username">यूज़र नेम</string>
+    <string name="password">पासवर्ड</string>
+    <string name="name">नाम</string>
+    <string name="contact">फ़ोन नंबर</string>
+    <string name="email">ई मेल</string>
+    <string name="Register">रजिस्टर</string>
+    <string name="Login">लॉग इन करें</string>
+    <string name="Logout">लोग आउट</string>
+    <string name="ministry">जल संसाधन, नदी विकास और गंगा संरक्षण मंत्रालय</string>
+</resources>

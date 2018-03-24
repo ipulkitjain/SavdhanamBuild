@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="username">ਯੂਜ਼ਰ ਨੇਮ</string>
+    <string name="password">ਪਾਸਵਰ੍ਡ</string>
+    <string name="name">ਨਾਮ</string>
+    <string name="contact">ਫੋਨ ਨੰਬਰ</string>
+    <string name="email">ਈ - ਮੇਲ</string>
+    <string name="Register">ਰਜਿਸਟਰ</string>
+    <string name="Login">ਲਾਗਿਨ</string>
+    <string name="Logout">ਲਾੱਗ ਆਊਟ</string>
+</resources>
