@@ -75,7 +75,7 @@ public class Login extends Activity {
                 queue.add(loginRequest);
 
 
-                Toast.makeText(getApplicationContext(),"Logged in Successfully", Toast.LENGTH_LONG).show();
+                Toast.makeText(getApplicationContext(),"Logged in Successfully.", Toast.LENGTH_LONG).show();
             }
         });
 
