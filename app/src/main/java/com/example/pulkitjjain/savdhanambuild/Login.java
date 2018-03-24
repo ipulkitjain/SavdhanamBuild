@@ -56,7 +56,7 @@ public class Login extends Activity {
                             }
                             else{
                                 AlertDialog.Builder builder = new AlertDialog.Builder(Login.this);
-                                builder.setMessage("Login Failed")
+                                builder.setMessage("Login Failed!")
                                         .setNegativeButton("Retry", null)
                                         .create()
                                         .show();
