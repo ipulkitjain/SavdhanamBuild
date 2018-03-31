@@ -12,7 +12,7 @@ import java.util.Map;
 
 public class RegisterRequest extends StringRequest {
 
-    private static final String REGISTER_REQUEST_URL = "";
+    private static final String REGISTER_REQUEST_URL = "https://www.getpostman.com/collections/c279c319cd81e51bc01b";
     private Map<String, String> params;
 
     public RegisterRequest(String name, String username, String email, int contact, String password, Response.Listener<String> listener){

@@ -61,7 +61,7 @@ public class Register extends Activity {
                             else{
                                 AlertDialog.Builder builder = new AlertDialog.Builder(Register.this);
                                 builder.setMessage("Register Failed")
-                                        .setNegativeButton("Retry", null)
+                                        .setNegativeButton("Retry.", null)
                                         .create()
                                         .show();
                             }

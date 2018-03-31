@@ -76,6 +76,8 @@ public class Login extends Activity {
 
 
                 Toast.makeText(getApplicationContext(),"Logged in Successfully.", Toast.LENGTH_LONG).show();
+                Intent intent = new Intent(Login.this, MainActivity.class);
+                startActivity(intent);
             }
         });
 

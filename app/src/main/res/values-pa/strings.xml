@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="username">ਯੂਜ਼ਰ ਨੇਮ</string>
+
     <string name="password">ਪਾਸਵਰ੍ਡ</string>
     <string name="name">ਨਾਮ</string>
-    <string name="contact">ਫੋਨ ਨੰਬਰ</string>
-    <string name="email">ਈ - ਮੇਲ</string>
-    <string name="Register">ਰਜਿਸਟਰ</string>
-    <string name="Login">ਲਾਗਿਨ</string>
-    <string name="Logout">ਲਾੱਗ ਆਊਟ</string>
+
+    <string name="email">ਈ ਮੇਇਲ</string>
+
+    <string name="login">ਲਾਗਿਨ</string>
+    <string name="logout">ਲਾੱਗ ਆਊਟ</string>
+    <string name="app_name">ਸਾਵਧਾਨਾਂ</string>
+    <string name="dam">ਡੈਮ</string>
+    <string name="sign_up">ਸਾਇਨ ਅਪ</string>
+    <string name="already_signed_up">ਪਹਿਲਾਂ ਹੀ ਸਾਈਨ ਅੱਪ ਕੀਤਾ ਹੈ?</string>
+    <string name="help_me">ਮੇਰੀ ਮਦਦ ਕਰੋ!</string>
+    <string name="help_is_on_the_way">ਮਦਦ ਆ ਰਹੀ ਹੈ</string>
+    <string name="title_activity_maps">ਨਕਸ਼ੇ</string>
+    <string name="settings">ਸੈਟਿੰਗਾਂ</string>
+    <string name="notifications">ਸੂਚਨਾਵਾਂ</string>
+    <string name="contacts">ਸੰਪਰਕ</string>
+    <string name="unknown_location">ਅਣਜਾਣ ਸਥਿਤੀ</string>
+    <string name="permission_rationale">ਸਥਾਨ ਦੀ ਇਜਾਜ਼ਤ ਦੀ ਲੋੜ ਹੈ</string>
+    <string name="permission_denied_explanation">ਮਨਜ਼ੂਰੀ ਤੋਂ ਇਨਕਾਰ ਕੀਤਾ ਗਿਆ ਪਰ ਲੋੜੀਂਦਾ ਹੈ</string>
+    <string name="ok">ਠੀਕ ਹੈ</string>
+    <string name="default_channel">ਡਿਫਾਲਟ ਚੈਨਲ</string>
+    <string name="phone_number">ਫੋਨ ਨੰਬਰ</string>
 </resources>

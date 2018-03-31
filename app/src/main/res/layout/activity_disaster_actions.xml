@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+ <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    android:background="#afafaf">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.pulkitjjain.savdhanambuild.DisasterActionsActivity">
+
+    <TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textSize="30sp"
+    android:textColor="@android:color/white"
+    android:gravity="center"
+        android:textStyle="bold"
+    android:text="Disaster Management Plan"
+    android:layout_marginTop="15sp"
+        android:id="@+id/DisasterManagementPlan"
+    />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/preparedness_dm"
+        android:gravity="fill_horizontal"
+        android:layout_below="@id/DisasterManagementPlan"
+        android:layout_marginTop="15sp"
+        android:textColor="@android:color/white"
+        android:textSize="24sp"
+        />
+
+</RelativeLayout>
+</ScrollView>

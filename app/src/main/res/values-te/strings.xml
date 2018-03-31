@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="logout">లాగ్ ఔట్</string>
+    <string name="login">లాగ్ ఇన్</string>
+    <string name="app_name">సావధానం</string>
+    <string name="email">ఇమెయిల్</string>
+    <string name="password">పాస్‌వర్డ్</string>
+    <string name="dam">ఆనకట్ట</string>
+    <string name="sign_up">శిగ్న్ ఉప్</string>
+    <string name="already_signed_up">ఇప్పటికే సైన్ అప్ చేసారా?</string>
+    <string name="help_me">నాకు సహాయం చెయ్యండి</string>
+    <string name="help_is_on_the_way">సహాయం వస్తోంది</string>
+    <string name="title_activity_maps">చిహ్నం</string>
+    <string name="settings">సెట్టింగులను</string>
+    <string name="notifications">ప్రకటనలను</string>
+    <string name="contacts">కాంటాక్ట్స్</string>
+    <string name="unknown_location">తెలియని స్థానం</string>
+    <string name="permission_rationale">స్థాన అనుమతి అవసరం</string>
+    <string name="permission_denied_explanation">అనుమతి తిరస్కరించబడింది కాని అవసరమైనది</string>
+    <string name="ok">అలాగే</string>
+    <string name="default_channel">డిఫాల్ట్ ఛానెల్</string>
+    <string name="phone_number">ఫోను నంబరు</string>
+    <string name="name">పేరు</string>
+</resources>

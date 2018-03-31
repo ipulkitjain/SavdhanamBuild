@@ -1,2 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="login">लॉग इन</string>
+    <string name="logout">लोग आउट</string>
+    <string name="app_name">सावधाणं</string>
+    <string name="email">ई मेल</string>
+    <string name="password">पासवर्ड</string>
+    <string name="dam">धरण</string>
+    <string name="sign_up">साइनअप</string>
+    <string name="already_signed_up">आधीच साइन अप केले आहे?</string>
+    <string name="help_me">मला मदत करा</string>
+    <string name="help_is_on_the_way">मदत येत आहे</string>
+    <string name="title_activity_maps">नकाशे</string>
+    <string name="settings">सेटिंग्स</string>
+    <string name="notifications">सूचना</string>
+    <string name="contacts">संपर्क</string>
+    <string name="unknown_location">अज्ञात स्थान</string>
+    <string name="permission_rationale">स्थान परवानगी आवश्यक आहे</string>
+    <string name="permission_denied_explanation">परवानगी नाकारण्यात आली पण आवश्यक आहे</string>
+    <string name="ok">ठीक आहे</string>
+    <string name="default_channel">डीफॉल्ट चॅनेल</string>
+    <string name="phone_number">फ़ोन नंबर</string>
+    <string name="name">नाव</string>
+</resources>

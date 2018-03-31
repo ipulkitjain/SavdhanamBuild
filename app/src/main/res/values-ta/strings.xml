@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="username">யூஸர் நேம்</string>
+
     <string name="password">பாஸ்‌வர்ட்</string>
-    <string name="name"></string>
-    <string name="contact">ஃபோந் நஂபர்</string>
+    <string name="name">பெயர்</string>
+
     <string name="email">பதிவு</string>
-    <string name="Register">பதிவு</string>
-    <string name="Login">லாக் இன்</string>
-    <string name="Logout">லாக் ஔட்</string>
+
+    <string name="login">லாக் இன்</string>
+    <string name="logout">லாக் ஔட்</string>
+    <string name="app_name">சாவதானம்</string>
+    <string name="dam">அணை</string>
+    <string name="sign_up">ஸைந் உப்</string>
+    <string name="already_signed_up">ஏற்கனவே பதிவு செய்துள்ளீர்களா?</string>
+    <string name="help_me">எனக்கு உதவி செய்!</string>
+    <string name="help_is_on_the_way">உதவி வருகிறது</string>
+    <string name="title_activity_maps">வரைபடங்கள்</string>
+    <string name="settings">அமைப்புகளை</string>
+    <string name="notifications">அறிவிப்புகளை</string>
+    <string name="contacts">தொடர்புகள்</string>
+    <string name="unknown_location">தெரியாத இடம்</string>
+    <string name="permission_rationale">இடம் அனுமதி தேவை</string>
+    <string name="permission_denied_explanation">அனுமதி மறுக்கப்பட்டது ஆனால் தேவை</string>
+    <string name="ok">சரி</string>
+    <string name="default_channel">இயல்புநிலை சேனல்</string>
+    <string name="phone_number">தொலைபேசி எண்</string>
 </resources>
